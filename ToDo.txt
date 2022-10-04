@@ -1,0 +1,15 @@
+    setup ai_helper
+    setup helper
+    create helper constants
+    create ai_helper constants base
+    find modules_erik
+
+    load dataset from file
+    explore dataset
+    pipeline dataset
+    ai any test on dataset
+    create project structure
+
+    helper git project, move files there so they can be used on any project
+
+
